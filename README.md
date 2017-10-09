@@ -1,2 +1,2 @@
 # PREDICT_410_Stocks
-Using Principal Components Analysis to explore a stock portfolio data set.
+Using Principal Components Analysis to explore the stock_portfolio.csv data set
